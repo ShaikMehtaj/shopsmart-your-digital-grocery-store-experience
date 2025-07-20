@@ -7,7 +7,7 @@ ShopSmart is a user-friendly and efficient online grocery store web application.
 ## 🎬 Demo
 
 📽️ **Watch Project Demo Video:**  
-👉 [Click Here](https://drive.google.com/file/d/1N9yelvnp3G1s24SmvM_AQGJXIIwvMLuv/view?usp=sharing)
+👉 [Click Here](https://drive.google.com/file/d/1npDzANr0_yQ9ahc1rsONG8BpFcjdmzxk/view?usp=sharing)
 
 
 
