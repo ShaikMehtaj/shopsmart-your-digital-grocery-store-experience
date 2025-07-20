@@ -64,21 +64,30 @@ ShopSmart is a user-friendly and efficient online grocery store web application.
    ```bash
    cd backend
    npm install
-3.Set up your MongoDB Atlas URI in .env file:
+3. Set up your MongoDB Atlas URI in .env file:
 
 MONGODB_URI=your_mongo_uri
 Run backend server:
 
-4.node server.js
+4. node server.js
 Open index.html from the frontend folder in a browser.
 
-👩‍💻 Developed By
-Shaik Mehtaj and Team...
-🎓 B.Tech (AIML), Final Year
-📫 Email: [mehtaj1014@gmail.com]
+---
 
-📜 License
-This project is for educational and academic purposes only. All rights reserved to the author.
+## 👩‍💻 **Developed By**
+
+**Shaik Mehtaj and Team**  
+🎓 **B.Tech (AIML), Final Year**  
+📫 **Email:** [mehtaj1014@gmail.com](mailto:mehtaj1014@gmail.com)
+
+---
+
+## 📜 **License**
+
+This project is for **educational and academic purposes only**.  
+**All rights reserved** to the author.
+
+---
 
 
 
