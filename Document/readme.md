@@ -1,11 +1,8 @@
-📄 **Final Project Documentation**  
-[📥 project PDF](https://drive.google.com/file/d/12mjL6s3rNumRI16T0xq036e2Y0xUkwFi/view?usp=drive_link)
+Project Documentation
+Here are the final documents related to the ShopSmart project:
 
----
+📘 Final Project Report
+Click to View – Final Report (Google Drive)
 
-## This is Project Running process and Requirements File
-
-📽️ **Project  – Running PDF**  
-[📥 running project PDF](https://drive.google.com/file/d/1lBsmuKhAYhShZ-iVdsB5t5QtluEqebsL/view?usp=sharing)
-
----
+📙 ShopSmart Documentation
+Click to View – Full Documentation (Google Drive)
